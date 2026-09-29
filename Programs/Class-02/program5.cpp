@@ -1,4 +1,4 @@
-//pass by pointer
+//pass by pointer(swap numbers)
 #include<iostream>
 using namespace std;
 void swap(int *a ,int *b)
