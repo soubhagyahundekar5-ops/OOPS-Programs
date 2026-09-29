@@ -1,4 +1,4 @@
-//pass by reference
+//pass by reference(swap numbers)
 #include<iostream>
 using namespace std;
 void swap(int &a ,int &b)
