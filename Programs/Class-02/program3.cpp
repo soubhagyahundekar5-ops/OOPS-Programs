@@ -1,4 +1,4 @@
-//pass by value
+//pass by value(swap numbers)
 #include<iostream>
 using namespace std;
 void swap(int a ,int b)
