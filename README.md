@@ -8,3 +8,10 @@ Student Details:
 | Div    | E                    |
 | USN    | 01FE23BEC272         |
 |Semester| 7th                  |
+
+| Class | Topics Covered |
+|-------|----------------|
+| 1st   | Basic C++ Programs |
+| 2nd   | Classes and Objects |
+| 3rd   | Constructors |
+| 4th   | Static Members |
