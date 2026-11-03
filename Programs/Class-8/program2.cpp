@@ -36,7 +36,7 @@ int main()
 {
 Person p;
 Student s;
-IT_Student i("Kingson","01FE23BEC331",8.57);
+IT_Student i("shree","01fe23bcs272",8.57);
 p.display1();
 cout<<endl;
 s.display2();
