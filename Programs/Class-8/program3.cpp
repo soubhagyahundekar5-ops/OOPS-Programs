@@ -38,7 +38,7 @@ int main()
 {
     Student s1;                                 //error because you need to declare a default constructor above in the Student class;
     Test t1;                                    //error because you need to declare a default constructor above in the Test class;
-    Result r1(97,85.7,632,"kingson",65);
+    Result r1(97,85.7,632,"shree",65);
     r1.display();
 
     return 0;
