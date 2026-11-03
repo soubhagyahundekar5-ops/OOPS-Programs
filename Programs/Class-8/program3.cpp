@@ -1,4 +1,4 @@
-//This code Has errors... FOR THE CORRECT CODE GO TO class_9 prog_4.
+//This code Has errors
 
 #include<iostream>
 using namespace std;
